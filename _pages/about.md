@@ -38,7 +38,7 @@ You can find my CV here: [Hanhan Zhao’s Curriculum Vitae](../assets/Hanhan%20Z
 
 **Hanhan Zhao**, Asit Kumar Gain, Zhen Li, Liangchi Zhang
 
-**Project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**Project** | **SCI TOP Journal Paper**
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>

@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a PhD student at Southern University of Science and Technology, MAE, with an expected graduation date of July 2025. \ From 2021 to 2024, I specialized in Mechanics under the supervision of Professor Liangchi Zhang, focusing on interface contact in thermal molding for glass. Prior to this, from 2014 to 2021, I completed both my Bachelor’s and Master’s degrees in Materials Engineering at Nanchang University, where I conducted research on magnesium alloy.
 My research interests encompass Materials science, Interface adhesion mechanics, Molecular dynamics simulations, and First-principles calculations. Currently, I am actively engaged in projects related to optical lenses for my doctoral research. 
-You can find my CV here: [Hanhan Zhao’s Curriculum Vitae](../docs/Hanhan%20Zhao’s%20Curriculum%20Vitae.pdf). If you are interested in my work, please feel free to drop me an email.
+You can find my CV here: [Hanhan Zhao’s Curriculum Vitae](../assets/Hanhan%20Zhao’s%20Curriculum%20Vitae.pdf). If you are interested in my work, please feel free to drop me an email.
 
 # 🔥 News
 - *2024.11*: New Paper on Mold-Glass Interface Adhesion Mechanisms in Thermal Molding, Invited Review (In preparation)

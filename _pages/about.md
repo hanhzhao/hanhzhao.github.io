@@ -23,8 +23,11 @@ My research interests encompass Materials science, Interface adhesion mechanics,
 You can find my CV here: Hanhan Zhao’s Curriculum Vitae. If you are interested in my work, please feel free to drop me an email.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11*: New Paper on Mold-Glass Interface Adhesion Mechanisms in Thermal Molding, Invited Review (In preparation)
+- *2024.08*: New Paper on Assessment of CrN/WC Molds: Surface Adhesion in Glass Molding, WEAR (Under Review)
+- *2024.09*: New Paper on Predicting the Mold-Glass Interface Adhesion in Thermal Molding, International Journal of Mechanics Science (Under Review)
+- *2023.12*:  &nbsp;🎉🎉 New Paper on Evaluating the Demolding Adhesion in Glass Molding, accepted by The 25th International Symposium on Advances in Abrasive Technology
+- *2023.07*:  &nbsp;🎉🎉 New Paper on Wear of Mold Surfaces: Interfacial Adhesion in Glass Molding, WEAR 204847, 524-525, 2023
 
 # 📝 Publications 
 

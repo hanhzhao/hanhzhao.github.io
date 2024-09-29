@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student at Southern University of Science and Technology, [MAE](https://mae.sustech.edu.cn/), [Institue for Manufacturing Innovation](https://imi.sustech.edu.cn/) with an expected graduation date of July 2025.<br>  
-From 2021 to 2024, I specialized in Mechanics under the supervision of Professor [Liangchi Zhang](https://www.sustech.edu.cn/en/faculties/zhangliangchi.html), focusing on interface contact in thermal molding for glass. Prior to this, from 2014 to 2021, I completed both my Bachelor’s and Master’s degrees in Materials Engineering at [Nanchang University](https://english.ncu.edu.cn/), where I conducted research on magnesium alloy under the supervision of Professor [Yong Liu](https://www.scopus.com/authid/detail.uri?authorId=57580549700).<br>   
-My research interests encompass Materials science, Interface adhesion mechanics, Molecular dynamics simulations, and First-principles calculations. Currently, I am actively engaged in projects related to optical lenses for my doctoral research.<br>   
+# Welcome! 
+I am currently a PhD student at Southern University of Science and Technology, [MAE](https://mae.sustech.edu.cn/), [Institue for Manufacturing Innovation](https://imi.sustech.edu.cn/) with an expected graduation date of July 2025.
+
+From 2021 to 2024, I specialized in Mechanics under the supervision of Professor [Liangchi Zhang](https://www.sustech.edu.cn/en/faculties/zhangliangchi.html), focusing on interface contact in thermal molding for glass. Prior to this, from 2014 to 2021, I completed both my Bachelor’s and Master’s degrees in Materials Engineering at [Nanchang University](https://english.ncu.edu.cn/), where I conducted research on magnesium alloy under the supervision of Professor [Yong Liu](https://www.scopus.com/authid/detail.uri?authorId=57580549700).
+
+My research interests encompass Materials science, Interface adhesion mechanics, Molecular dynamics simulations, and First-principles calculations. Currently, I am actively engaged in projects related to optical lenses for my doctoral research.
+
 You can find my CV here: [Hanhan Zhao’s Curriculum Vitae](../assets/Hanhan%20Zhao’s%20Curriculum%20Vitae.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:12131127@mail.sustech.edu.cn).
 
 # 🔥 News

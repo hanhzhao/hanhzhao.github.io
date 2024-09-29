@@ -62,7 +62,7 @@ Predicting the Mold-Glass Interface Adhesion in Thermal Molding
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJMS 2024</div><img src='../images/3WEAR.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WEAR 2025</div><img src='../images/3WEAR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Assessment of CrN/WC Molds: Surface Adhesion in Precision Glass Molding

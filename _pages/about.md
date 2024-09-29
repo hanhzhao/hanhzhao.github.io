@@ -58,30 +58,35 @@ Predicting the Mold-Glass Interface Adhesion in Thermal Molding
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJMS 2024</div><img src='../images/2IJMS.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJMS 2024</div><img src='../images/3WEAR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Predicting the Mold-Glass Interface Adhesion in Thermal Molding
+Assessment of CrN/WC Molds: Surface Adhesion in Precision Glass Molding
 
-**Hanhan Zhao**, Liangchi Zhang, Asit Kumar Gain, Zhen Li
+**Hanhan Zhao**, Liangchi Zhang
 
 **SCI TOP Journal Paper** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
 
-
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.01* 2022-2023 Outstanding Graduate Student of Southern University of Science and Technology (Top 1%)
+- *2023.12* II Edition 'Star of the School of Engineering' Award at Southern University of Science and Technology (Top 5%)
+- *2022.09* 2022 Outstanding Graduate Teaching Assistant of Southern University of Science and Technology (Top 5%)
+- *2020.05* 202 Second-class Graduate Academic Scholarship of Nanchang University, 2019-2020 Academic Year (Top 30%)
+- *2016.04* 2022 First-class Undergraduate Scholarship of Nanchang University, 2015-2016 Academic Year (Top 5%)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2024.10 (now)*, PhD of Mechanics, Southern University of Science and Technology, Shenzhen, China
+     - Supervised by Prof. Liangchi Zhang
+- *2018.09 - 2021.06*, Master of Materials Engineering, Nanchang University, Nanchang, China
+     - Supervised by Prof. Yong Liu
+- *2014.09 - 2018.06*, Bachelor of Materials Engineering, Nanchang University, Nanchang, China
+     - Supervised by Prof. Yong Liu
+
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.04*, Oral presentation, 24th International Conference on Wear of Materials WOM 2023, Banff (Canada).
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+Let my soul's truth mirror the honesty I show the world.

@@ -93,4 +93,7 @@ Assessment of CrN/WC Molds: Surface Adhesion in Precision Glass Molding
 # 💬 Invited Talks
 - *2023.04*, Oral presentation, 24th International Conference on Wear of Materials WOM 2023, Banff (Canada).
 
-Let my soul's truth mirror the honesty I show the world.
+
+<p align="center">
+  <i>Let my soul's truth mirror the honesty I show the world.</i>
+</p>

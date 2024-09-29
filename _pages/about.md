@@ -31,7 +31,7 @@ You can find my CV here: [Hanhan Zhao’s Curriculum Vitae](../assets/Hanhan%20Z
 
 # 📝 Publications 
 * During My Doctoral Research Program
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='../images/1wear.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Wear of Mold Surfaces: Interfacial Adhesion in Glass Molding](https://www.sciencedirect.com/science/article/pii/S0043164823002302)

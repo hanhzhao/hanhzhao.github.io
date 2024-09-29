@@ -32,7 +32,7 @@ You can find my CV here: [Hanhan Zhao’s Curriculum Vitae](../assets/Hanhan%20Z
 # 📝 Publications 
 * During My Doctoral Research Program
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WEAR 2023</div><img src='../images/1wear.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WEAR 2023</div><img src='../images/1wear.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Wear of Mold Surfaces: Interfacial Adhesion in Glass Molding](https://www.sciencedirect.com/science/article/pii/S0043164823002302)
@@ -45,6 +45,18 @@ You can find my CV here: [Hanhan Zhao’s Curriculum Vitae](../assets/Hanhan%20Z
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WEAR 2023</div><img src='../images/1wear.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Wear of Mold Surfaces: Interfacial Adhesion in Glass Molding](https://www.sciencedirect.com/science/article/pii/S0043164823002302)
+
+**Hanhan Zhao**, Asit Kumar Gain, Zhen Li, Liangchi Zhang
+
+**SCI TOP Journal Paper** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- vol. 524-525, pp. 204847, 2023, doi:
+  https://doi.org/10.1016/j.wear.2023.204847. 
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

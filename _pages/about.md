@@ -69,7 +69,7 @@ Assessment of CrN/WC Molds: Surface Adhesion in Precision Glass Molding
 
 **Hanhan Zhao**, Liangchi Zhang
 
-**SCI TOP Journal Paper** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**SCI Journal Paper** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 

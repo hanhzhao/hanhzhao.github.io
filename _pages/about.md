@@ -50,7 +50,7 @@ You can find my CV here: [Hanhan Zhao’s Curriculum Vitae](../assets/cv_Hanhanz
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJMS 2024</div><img src='../images/21.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJMS 2024</div><img src='../images/1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Predicting the Mold-Glass Interface Adhesion in Thermal Molding
